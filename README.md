@@ -1,4 +1,4 @@
-# pacman-ia
+# PacMan
 
 Esse projeto foi desenvolvido durante a disciplina de Inteligência Artificial. (Outubro/2023)
 
